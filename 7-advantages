@@ -1,0 +1,407 @@
+<!doctype html>
+<html class="no-js" lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Agency Multipage Bootstrap Template</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <!-- Place favicon.ico in the root directory -->
+
+    <link rel="stylesheet" href="css/vendor/bootstrap.min.css">
+    <!-- Nav -->
+    <link rel="stylesheet" href="css/vendor/fullscreen-overlay-nav.css">
+    <!-- ThemeFisher Icon -->
+    <link rel="stylesheet" href="css/vendor/themefisher-fonts.css">
+    <!-- Owl Carousel -->
+    <link rel="stylesheet" href="css/vendor/owl.carousel.css">
+    <link rel="stylesheet" href="css/vendor/owl.transitions.css">
+    <!-- Light Box -->
+    <link rel="stylesheet" href="css/vendor/magnific-popup.css">
+    <!-- fullpage -->
+    <link rel="stylesheet" href="css/vendor/fullpage.min.css">
+    <link rel="stylesheet" href="css/vendor/playfairdisplaysc.css">
+    <link rel="stylesheet" href="css/vendor/font-awesome.min.css">
+
+    <!-- Revolution Slider -->
+    <link rel="stylesheet" href="css/vendor/settings.css">
+    <link rel="stylesheet" href="css/vendor/layers.css">
+    <link rel="stylesheet" href="css/vendor/navigation.css">
+
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/vendor/modernizr.min.js"></script>
+  </head>
+  <body>
+    <!--[if lt IE 8]>
+      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+  <!-- Loader to display before content Load-->
+  <div class="loading">
+
+    <!-- <img src="img/loader.gif" alt=""> -->
+
+    <div class="windows8 loading-position">
+      <div class="wBall" id="wBall_1">
+        <div class="wInnerBall"></div>
+      </div>
+      <div class="wBall" id="wBall_2">
+        <div class="wInnerBall"></div>
+      </div>
+      <div class="wBall" id="wBall_3">
+        <div class="wInnerBall"></div>
+      </div>
+      <div class="wBall" id="wBall_4">
+        <div class="wInnerBall"></div>
+      </div>
+      <div class="wBall" id="wBall_5">
+        <div class="wInnerBall"></div>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- header-section 
+  =========================-->
+  <header class="header blog-header th-normal" data-parallax="scroll" data-image-src="img/header_bg/blog-folding-img.jpg">
+    <div class="section">
+      <div class="container">
+        <div class="row">
+        <div class="logo">
+            <img src="img/Fiction-logo.png" alt="Logo">
+          </div>
+          <button id="trigger-overlay" class="th-nav-btn" type="button"><i class="tf-ion-android-menu"></i></button>
+          <div class="col-md-12">
+            <h1 class="text-center">Our Blogs. <br> We Ensure Quality Design.</h1>
+            
+
+            <!-- Themefisher Navigation -->
+            <div class="overlay overlay-hugeinc">
+              <button type="button" class="overlay-close th-close-btn"><i class="tf-ion-close"></i></button>
+              
+              <nav>
+                <ul class="th-nav">
+                  <li><a href="index.html">Home</a></li>
+                  <li><a href="services.html">Services</a></li>
+                  <li><a href="portfolio.html">Portfolio</a></li>
+                  <li><a href="blog.html">Blog</a></li>
+                  <li><a href="contact.html">Contact</a></li>
+                </ul>
+              </nav>
+            </div><!--/.End Nav -->
+
+          </div>
+        </div><!-- /.row End -->
+      </div>
+    </div>
+  </header>
+  
+  <!-- Blog Sections 
+  =========================-->
+  <section class="blog-single">
+  	<div class="container">
+  		<div class="row">
+        <div class="title text-center">
+          <h2>Our Blog</h2>
+        </div>
+  			<div class="col-md-9">
+				  <!-- Blog Left Sections 
+				  =========================-->
+            <!-- Single Blog Page Main Img
+            ============================== -->
+            <div class="blog-single-section-img">
+              <img src="img/blog/single-blog.jpg" alt="Blog Single Img">
+            </div>
+            <!-- Single Blog Page Main Content
+            ================================== -->
+            <div class="blog-single-content">
+              <div class="blog-content-description">
+                <h3><a class="blog-content-title" href="#">7 Benefits Of Being A Freelancer.</a></h3>
+                <div class="meta">
+                  <div class="date">
+                    <p>02<sup>nd</sup>April 2018</p>
+                  </div>
+                  <div class="author">
+                    <p>By Haydn Hadley</p>
+                  </div>
+                </div>
+                <p class="blog-description"> A freelancer is a person who is self-employed and offering their services, most commonly to businesses and often to multiple clients at a time. The type of work freelancers do varies. Every service a business could need can be provided by a freelancer, including, digital marketing, such as social media marketing, technological support, such as web programming and design, copywriting, and publicity, writing, such as articles and blog posts, and creative works such as graphic design.
+
+Freelancing is so flexible, I can set my own hours, working full or part-time on the projects of my choosing. While clients can offer specifications to the work, I work similarly to an independent contractor, in which I'm free to control how the work is completed.
+
+Also, freelancing allows me to set my own price, which is higher than what I'd make as an employee doing the same work. 
+
+The workload does vary. Many freelancers build up a client base over a period of time. For example, I have a client that requires a podcast to be transcribed twice a week so that he can repurpose the podcast into blog posts, this massively increases his SEO.
+
+Others work with clients over shorter periods, usually on single projects. For example, a freelance web designer might build a website for a client and once the site is done, so is their working relationship.</p>
+<p>There's a number of perks to working as a freelancer, including:</p>
+              </div>
+              <div class="blog-content-description">
+                <h4 class="blog-inner-heading">I got started quickly</h4>
+                <p class="blog-description">I already knew the skill I would offer, getting started was simply a matter of finding my first client. Which meant...</p>
+              </div>
+              <div class="blog-content-description">
+                <h4 class="blog-inner-heading">It was easy to start</h4>
+                <p class="blog-description"> If you have a skill you can start right now too, using your network find a client. While you'll want to build a LinkedIn profile and/or a website, you can network within the parameters of your current career and friend networks to find your first client. It won't harm you to join a freelancer platform like PeoplePerHour also.</p>
+                </div>
+              <div class="blog-content-description">
+                <h4 class="blog-inner-heading">It's Affordable</h4>
+                <p class="blog-description">So if you have the ability to provide the service, chances are you also have whatever equipment or software you need to deliver it. All I needed to get started in freelancing as an audio transcriptionist was a laptop. Eventually, I'd like to invest in business building tools, such as growing this website, but using LinkedIn (which is free) is a great online resume that can help me promote my service.</p>
+                </div>
+              <div class="blog-content-description">
+                <h4 class="blog-inner-heading">There's a high demand for help</h4>
+                <p class="blog-description">Yes, the marketplace of freelancers is competitive, the need for quality, reliable freelancers is growing. A lot of businesses don't have employees instead, they have a team of freelancers. </p>
+                </div>
+              <div class="blog-content-description">
+                <h4 class="blog-inner-heading">I choose my own schedule</h4>
+                <p class="blog-description">I work when and where I want. Just last week my girlfriend had a business trip in the Cotswolds, I didn't require permission from a boss, neither did I use up any valuable holiday days that I used to save up. I just went. I spent three days working in little cafes (my office is where ever they serve good coffee, it's my only rule).</p>
+                </div>
+              <div class="blog-content-description">
+                <h4 class="blog-inner-heading">I pick and choose my clients</h4>
+                <p class="blog-description">While I'm still in the beginning stages of my freelance career (the bulk of my work comes from jobs I take on via an online transcription company), I take any client that will hire me, as I grow, I will choose not to take on difficult clients, or difficult jobs with poor audio quality.</p>
+                </div>
+              <div class="blog-content-description">
+                <h4 class="blog-inner-heading">I do the work the way I see fit</h4>
+                <p class="blog-description">While I strive to deliver what the client asks, how the work is done, ultimately, is up to me.</p>
+                </div>
+              <div class="blog-content-description">
+                <h4 class="blog-inner-heading">Did You Enjoy This Article?</h4>
+                <p class="blog-description">I always feel a deep level of shame when I say this, but if you liked the article, or feel anyone can benefit from what I have to say then please give it a thumbs up and a share.</p>
+                </div>
+            </div><!-- End Single Blog Content -->
+            <!-- Single Blog Page Comments
+            ================================== -->
+            <div class="blog-single-comments">
+              <h4 class="comments-title">Comments (2)</h4>
+              <div class="blog-comments">
+                <div class="media">
+                  <div class="media-left blog-left-img">
+                    <div class="blog-comments-img">
+                      <img class="media-object" src="img/blog/comment-img1.png" alt="comments pic">
+                    </div>
+                  </div>
+                  <div class="media-body comments-body">
+                    <p class="blog-comments-text">“ This is the PERFECT conceal carry handgun..Only gave it a 4 because the slide is super hard to pull back but as I use it more I expect it to become easier. ” est etiam processus dynamicus</p>
+                    <h4 class="media-heading comments-author">Garry Shepherd</h4>
+                  </div>
+                </div>
+              </div>
+              <div class="blog-comments">
+                <div class="media">
+                  <div class="media-left blog-left-img">
+                    <div class="blog-comments-img">
+                      <img class="media-object" src="img/blog/comment-img2.png" alt="comments pic">
+                    </div>
+                  </div>
+                  <div class="media-body comments-body">
+                    <p class="blog-comments-text">“ This is the PERFECT conceal carry handgun..Only gave it a 4 because the slide is super hard to pull back but as I use it more I expect it to become easier. ” est etiam processus dynamicus</p>
+                    <h4 class="media-heading comments-author">Junaed Shepherd</h4>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- Single Blog Page Form
+            ================================== -->
+            <div class="blog-single-form">
+              <form>
+                <div class="form-group col-md-6 padding-0">
+                  <input type="text" class="form-control blog-form-input" placeholder="Your Name">
+                </div>
+                <div class="form-group col-md-6 padding-0 padding-left-15">
+                  <input type="email" class="form-control blog-form-input" placeholder="Your Email">
+                </div>
+                <div class="form-group col-md-12 padding-0">
+                  <textarea class="form-control blog-form-textarea" placeholder="Your Comment"></textarea>
+                </div>
+                <div class="col-md-12 padding-0">
+                  <div class="form-submit-btn text-center">
+                    <button type="submit" class="btn btn-default th-btn">Submit Comment</button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          <!-- See All Post -->
+          <div class="col-md-12">
+            <div class="see-all-post text-center">
+              <a class="btn btn-default th-btn solid-btn" href="#" role="button"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> Back To All Posts </a>
+            </div>
+          </div>
+  			</div>
+  			<div class="col-md-3">
+				  <!-- Blog Right Sections 
+				  =========================-->
+	  				<div class="blog-sidbar">
+		<div class="search widgets">
+			<form class="form-inline">
+			  <div class="form-group search-input">
+			    <input type="text" class="form-control" placeholder="Search ...">
+			  </div>
+			  <button type="submit" class="btn btn-default tf-search-btn"><i class="tf-search"></i></button>
+			</form>
+		</div>
+		<div class="categories widgets">
+			<div class="list-group text-center">
+				<div class="list-group-item active"> Blog Categories </div>
+				<a href="#" class="list-group-item">Web Design</a>
+				<a href="#" class="list-group-item">User Interface</a>
+				<a href="#" class="list-group-item">User Experience</a>
+				<a href="#" class="list-group-item">Typography</a>
+				<a href="#" class="list-group-item">Color Sense</a>
+				<a href="#" class="list-group-item">Future Trend</a>
+				<a href="#" class="list-group-item">Modern Design</a>
+			</div>
+		</div>
+		<div class="related-post widgets">
+			<div class="list-group">
+				<div class="list-group-item active text-center">
+				Related Post
+				</div>
+				<a href="#" class="list-group-item">
+					<div class="media">
+					  <div class="media-left media-middle"><p class="post-count">1</p></div>
+					  <div class="media-body">
+					    <p>Typography is  important fact for liusto odio dolore.</p>
+					  </div>
+					</div>
+				</a>
+				<a href="#" class="list-group-item">
+					<div class="media">
+					  <div class="media-left media-middle"><p class="post-count">2</p></div>
+					  <div class="media-body">
+					    <p>Typography is  important fact for liusto odio dolore.</p>
+					  </div>
+					</div>
+				</a>
+				<a href="#" class="list-group-item">
+					<div class="media">
+					  <div class="media-left media-middle"><p class="post-count">3</p></div>
+					  <div class="media-body">
+					    <p>Typography is  important fact for liusto odio dolore.</p>
+					  </div>
+					</div>
+				</a>
+				<a href="#" class="list-group-item">
+					<div class="media">
+					  <div class="media-left media-middle"><p class="post-count">4</p></div>
+					  <div class="media-body">
+					    <p>Typography is  important fact for liusto odio dolore.</p>
+					  </div>
+					</div>
+				</a>
+			</div>
+		</div>
+	</div>
+  			</div>
+  		</div>
+  	</div>
+  </section>
+  
+
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="container">
+                    <div class="footer-top">
+                        <div class="col-md-4">
+                            <!-- footer About section
+                            ========================== -->
+                            <div class="footer-about">
+                                <h3 class="footer-title">About</h3>
+                                <p>We are Nomad Transcription:<br>
+                                 Officially we are based in the UK, but <br>
+                                  the whole world is our office.  <br>
+                                  </p>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <!-- footer Address section
+                            ========================== -->
+                            <div class="footer-address">
+                                <h3 class="footer-title">Address</h3>
+                                <p>Nomad Transcription 24/A,Kingstreet, Carmarthenshire.</p>
+                                <p class="contact-address">
+                                    Contact us : <a href="tel:+447538887097">(+44) 07538 887 097 </a> <br>
+                                    Write us : <a href="mailto:nomadtranscription@gmail.com">hello@nomadtranscription.com</a>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <!-- footer Media link section
+                            ========================== -->
+                            <div class="footer-social-media">
+                                <h3 class="footer-title">Keep in touch</h3>
+                                <ul class="footer-media-link">
+                                    <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                  <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="footer-nav text-center">
+                        <div class="col-md-12">
+                            <ul>
+                                <li><a href="index.html">Home</a></li>
+                                <li><a href="services.html">Services</a></li>
+                                <li><a href="portfolio.html">Portfolio</a></li>
+                                
+                                <li><a href="contact.html">Contact</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="text-center">
+                        <div class="col-md-12">
+                            <div class="copyright">
+                                <p>&copy; We are Nomad Transcription. All rights reserved, 2018. <br>
+                                Designed by Khadge Hadley.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/vendor/jquery.min.js"></script>
+    <script src="js/vendor/bootstrap.min.js"></script>
+    <!-- Full Page Js -->
+    <script src="js/vendor/jquery.fullpage.min.js"></script>
+    <!-- nav js -->
+    <script src="js/vendor/fullscreen-overlay-nav.js"></script>
+    <!-- Owl Carousel js -->
+    <script src="js/vendor/owl.carousel.min.js"></script>
+    <!-- Mixitup -->
+    <script src="js/vendor/jquery.mixitup.js"></script>
+    <!-- Lightbox -->
+    <script src="js/vendor/jquery.magnific-popup.min.js"></script>
+    <!-- Parallax -->
+    <script src="js/vendor/parallax.min.js"></script>
+    <!-- Video -->
+    <script src="js/vendor/jquery.vide.js"></script>
+
+    <!-- Revolution Slider -->
+    <script src="js/vendor/jquery.themepunch.tools.min.js"></script>
+    <script src="js/vendor/jquery.themepunch.revolution.min.js"></script>
+
+    <script type="text/javascript" src="js/vendor/extensions/revolution.extension.actions.min.js"></script>
+    <script type="text/javascript" src="js/vendor/extensions/revolution.extension.carousel.min.js"></script>
+    <script type="text/javascript" src="js/vendor/extensions/revolution.extension.kenburn.min.js"></script>
+    <script type="text/javascript" src="js/vendor/extensions/revolution.extension.layeranimation.min.js"></script>
+    <script type="text/javascript" src="js/vendor/extensions/revolution.extension.migration.min.js"></script>
+    <script type="text/javascript" src="js/vendor/extensions/revolution.extension.navigation.min.js"></script>
+    <script type="text/javascript" src="js/vendor/extensions/revolution.extension.parallax.min.js"></script>
+    <script type="text/javascript" src="js/vendor/extensions/revolution.extension.slideanims.min.js"></script>
+    <script type="text/javascript" src="js/vendor/extensions/revolution.extension.video.min.js"></script>
+    
+    <!-- Map -->
+    <script src="https://maps.googleapis.com/maps/api/js"></script>
+
+    <!-- =======
+        Main Js
+    ============ -->
+    <script src="js/script.js"></script>
+  </body>
+</html>
