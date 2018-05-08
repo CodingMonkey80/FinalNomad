@@ -129,7 +129,7 @@
 
         // Let's also add a marker while we're at it
         var marker = new google.maps.Marker({
-            position: new google.maps.LatLng(40.6700, -73.9400),
+            position: new google.maps.LatLng(51.8571092, -4.30483449999997),
             map: map,
             title: 'Agency!'
         });
