@@ -19,11 +19,11 @@ body {
 
 /* Heading Fonts Size */
 h1, h2, h3 {
-  font-family: "playfair_displaybold", sans-serif;
+  font-family: "sifonn_basic", sans-serif;
   color: #facd8a; }
 
 h4 {
-  font-family: "Roboto", sans-serif; }
+  font-family: "sifonn_basic", sans-serif; }
 
 h1 {
   font-size: 65px; }
