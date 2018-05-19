@@ -29,7 +29,14 @@ body {
 
 /* Heading Fonts Size */
 h1, h2, h3 {
-  font-family: "norwester", sans-serif;
+  @font-face {
+    font-family: norwester;
+    src: url(FinalNomad/fonts/norwester/norwester.otf);
+}
+
+div {
+    font-family: norwester;
+}
   color: #facd8a; }
 
 h4 {
