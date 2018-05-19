@@ -9,10 +9,7 @@
  ----------*/
 
 @import url("https://fonts.googleapis.com/css?family=Lora:400i|Poppins:300,400,500,600,700|Roboto:100i,300,300i,400,500,500i,700,900");
-
-@font-face {
-    font-family: norwester;
-    src: url(FinalNomad/fonts/norwester/norwester.otf);
+@import url("FinalNomad/fonts/norwester/norwester.otf");
 }
 
 div {
@@ -29,14 +26,7 @@ body {
 
 /* Heading Fonts Size */
 h1, h2, h3 {
-  @font-face {
-    font-family: norwester;
-    src: url(FinalNomad/fonts/norwester/norwester.otf);
-}
-
-div {
-    font-family: norwester;
-}
+ font-family: "norwester", sans-serif;
   color: #facd8a; }
 
 h4 {
