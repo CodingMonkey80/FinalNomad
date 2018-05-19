@@ -268,9 +268,28 @@
     <div id="google-map"></div>
   </section>
   
-  <!--Start Cookie Script-->
-<script type="text/javascript" charset="UTF-8" src="http://chs03.cookie-script.com/s/37941dc7d668949152057647996275eb.js"></script>
-<!--End Cookie Script-->
+  <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#3c404d",
+      "text": "#d6d6d6"
+    },
+    "button": {
+      "background": "#facd8a"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-left",
+  "type": "opt-out",
+  "content": {
+    "href": "https://codingmonkey80.github.io/FinalNomad/cookie-policy.html"
+  }
+})});
+</script>
 
     <footer class="footer">
         <div class="container">
