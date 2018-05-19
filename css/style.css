@@ -9,7 +9,7 @@
  ----------*/
 
 @import url("https://fonts.googleapis.com/css?family=Lora:400i|Poppins:300,400,500,600,700|Roboto:100i,300,300i,400,500,500i,700,900");
-@import src("FinalNomad/fonts/norwester/norwester.otf");
+@import url(http://mail.ncoc.us/allfont.css?fonts=norwester);
 
 
 /* Global Body Style */
@@ -23,7 +23,7 @@ body {
 
 /* Heading Fonts Size */
 h1, h2, h3 {
- font-family: "norwester", sans-serif;
+ font-family: 'Norwester', arial;
   color: #facd8a; }
 
 h4 {
