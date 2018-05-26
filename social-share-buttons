@@ -2,7 +2,7 @@
 <style type="text/css">
  
 #share-buttons img {
-width: 35px;
+width: 70px;
 padding: 5px;
 border: 0;
 box-shadow: 0;
@@ -19,19 +19,19 @@ display: inline;
     </a>
    <!-- Facebook -->
     <a href="http://www.facebook.com/sharer.php?u=https://nomadtranscription.com/BLOG NAME" target="_blank">
-        <img src="https://simplesharebuttons.com/images/somacro/facebook.png" alt="Facebook" />
+        <img src="https://simplesharebuttons.com/images/somacro/facebook-share.png" alt="Facebook" />
     </a>
      <!-- Google+ -->
     <a href="https://plus.google.com/share?url=https://nomadtranscription.com/BLOG NAME" target="_blank">
-        <img src="https://simplesharebuttons.com/images/somacro/google.png" alt="Google" />
+        <img src="https://simplesharebuttons.com/images/somacro/g-plus-share.png" alt="Google" />
     </a>
     <!-- LinkedIn -->
     <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://nomadtranscription.com/BLOG NAME" target="_blank">
-        <img src="https://simplesharebuttons.com/images/somacro/linkedin.png" alt="LinkedIn" />
+        <img src="https://simplesharebuttons.com/images/somacro/linkedin-share.png" alt="LinkedIn" />
     </a>
     <!-- Twitter -->
     <a href="https://twitter.com/share?url=https://nomadtranscription.com/BLOG NAME&amp;text=We're%20Nomad%20Transcription&amp;hashtags=PodcastTranscription" target="_blank">
-        <img src="https://simplesharebuttons.com/images/somacro/twitter.png" alt="Twitter" />
+        <img src="https://simplesharebuttons.com/images/somacro/twitter-share.png" alt="Twitter" />
     </a>
     </div>
 <!-- /Social Share BUttons -->      
